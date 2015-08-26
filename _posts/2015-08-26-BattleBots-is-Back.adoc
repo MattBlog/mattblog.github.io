@@ -1,0 +1,4 @@
+= BattleBots is Back
+:hp-image: images/bg-blender-01.jpg
+
+Battlebots is back and a new Blender is coming...
