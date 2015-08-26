@@ -1,4 +1,6 @@
 = BattleBots is Back
-:hp-image: images/bg-blender-01.jpg
+:hp-image: bg-blender-01.jpg
+:published_at: 2015-08-26
+:hp-tags: Blender, BattleBots, Robotics,
 
 Battlebots is back and a new Blender is coming...
